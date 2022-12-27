@@ -3,7 +3,7 @@ I'm Ashaolu Ayanfe <br>
 A pharmacist with a keen interest in : <br>
 * Machine learning <br>
 * Deep learning and <br>
-* Software engineering
+* Data analysis
 ***
 * 💞️ I’m looking to collaborate on natural language processing and computer vision projects.
 * 📫 you can reach me via [LinkedIn](https://www.linkedin.com/in/ayanfe-ashaolu-501945123/) or ashaoluayanfe@gmail.com.
